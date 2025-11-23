@@ -1,0 +1,12 @@
+Generate 10 descriptive, long-answer questions based only on the materials in this notebook.
+Each question should:
+
+require higher-order thinking (analysis, explanation, comparison, evaluation)
+
+be suitable for a 10–15 mark exam question
+
+avoid objective or multiple-choice format
+
+include key points that a model answer must contain
+
+After generating the questions, provide a short summary of which chapters/topics each question covers.
